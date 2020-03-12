@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Puzzle Extra</string>
+    <string name="choose_photo">Selectionnez une photo pour jouer avec</string>
+    <string name="choose_difficulty">Difficulté :</string>
+    <string name="start">Commencer</string>
+    <string name="win">Vous avez gagné</string>
+    <string name="move">Coups</string>
+    <string name="shake">Secouez pour mélanger</string>
+    <string-array name="difficulty_array">
+        <item>3x3</item>
+        <item>4x4</item>
+        <item>5x5</item>
+        <item>6x6</item>
+        <item>7x7</item>
+        <item>8x8</item>
+        <item>9x9</item>
+        <item>10x10</item>
+        <item>11x11</item>
+        <item>12x12</item>
+        <item>13x13</item>
+        <item>14x14</item>
+        <item>15x15</item>
+        <item>16x16</item>
+        <item>17x17</item>
+        <item>18x18</item>
+        <item>19x19</item>
+        <item>20x20</item>
+    </string-array>
+</resources>
